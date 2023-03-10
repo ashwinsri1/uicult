@@ -4,7 +4,7 @@ function CompletionScreen() {
   return (
     <div>
       <p className="completionMessage">Good job, comrade!🫡</p>
-      <img src="/public/good.webp" />
+      <img src="/good.webp" />
     </div>
   )
 }
